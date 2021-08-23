@@ -1,5 +1,5 @@
 //declares what date, and time the countdown is going to
-var deadline = new Date("Feb 22, 2021 08:00:00").getTime(); 
+var deadline = new Date("Aug 25, 2021 17:00:00").getTime(); 
 //
 
 
